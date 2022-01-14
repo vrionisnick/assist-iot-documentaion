@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Cybersecurity Monitoring enabler:
 
-############
-Authorization_enablers
-############
+################################
+Cybersecurity Monitoring enabler
+################################
 
 .. contents::
   :local:

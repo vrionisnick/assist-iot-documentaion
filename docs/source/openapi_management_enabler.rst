@@ -1,7 +1,7 @@
-.. _Authorization_enablers:
+.. _OpenAPI Management enabler:
 
 ############
-Authorization_enablers
+OpenAPI Management enabler
 ############
 
 .. contents::

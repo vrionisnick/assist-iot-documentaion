@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Authorization_enabler:
 
-############
-Authorization_enablers
-############
+#####################
+Authorization enabler
+#####################
 
 .. contents::
   :local:

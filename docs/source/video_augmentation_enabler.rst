@@ -1,7 +1,7 @@
-.. _Authorization_enablers:
+.. _Video augmentation enabler:
 
 ############
-Authorization_enablers
+Video augmentation enabler
 ############
 
 .. contents::

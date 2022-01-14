@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Logging and auditing enabler:
 
-############
-Authorization_enablers
-############
+############################
+Logging and auditing enabler
+############################
 
 .. contents::
   :local:

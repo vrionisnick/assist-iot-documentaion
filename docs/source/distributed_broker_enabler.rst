@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Distributed broker enabler:
 
-############
-Authorization_enablers
-############
+##########################
+Distributed broker enabler
+##########################
 
 .. contents::
   :local:

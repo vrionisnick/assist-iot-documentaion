@@ -1,7 +1,7 @@
-.. _Authorization_enablers:
+.. _DLT-based FL enabler:
 
 ############
-Authorization_enablers
+DLT-based FL enabler
 ############
 
 .. contents::

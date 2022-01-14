@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Geo (Localization) enabler:
 
-############
-Authorization_enablers
-############
+##########################
+Geo (Localization) enabler
+##########################
 
 .. contents::
   :local:

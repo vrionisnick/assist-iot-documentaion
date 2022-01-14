@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Identity Manager enabler:
 
-############
-Authorization_enablers
-############
+########################
+Identity Manager enabler
+########################
 
 .. contents::
   :local:

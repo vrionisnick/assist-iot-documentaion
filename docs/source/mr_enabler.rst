@@ -1,7 +1,7 @@
-.. _Authorization_enablers:
+.. _MR enabler:
 
 ############
-Authorization_enablers
+MR enabler
 ############
 
 .. contents::

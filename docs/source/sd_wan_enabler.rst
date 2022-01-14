@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _SD-WAN enabler:
 
-############
-Authorization_enablers
-############
+##############
+SD-WAN enabler
+##############
 
 .. contents::
   :local:

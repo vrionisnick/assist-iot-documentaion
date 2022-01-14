@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Data integrity verification enabler:
 
-############
-Authorization_enablers
-############
+###################################
+Data integrity verification enabler
+###################################
 
 .. contents::
   :local:

@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Semantic Annotator enabler:
 
-############
-Authorization_enablers
-############
+##########################
+Semantic Annotator enabler
+##########################
 
 .. contents::
   :local:

@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Automated configuration enabler:
 
-############
-Authorization_enablers
-############
+###############################
+Automated configuration_enabler
+###############################
 
 .. contents::
   :local:

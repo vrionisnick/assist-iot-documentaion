@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Edge Node:
 
-############
-Authorization_enablers
-############
+#########
+Edge Node
+#########
 
 .. contents::
   :local:

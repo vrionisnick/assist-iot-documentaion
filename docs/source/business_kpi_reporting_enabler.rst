@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Business KPI reporting enabler:
 
-############
-Authorization_enablers
-############
+##############################
+Business KPI reporting enabler
+##############################
 
 .. contents::
   :local:

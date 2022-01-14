@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Smart Orchestrator:
 
-############
-Authorization_enablers
-############
+##################
+Smart Orchestrator
+##################
 
 .. contents::
   :local:

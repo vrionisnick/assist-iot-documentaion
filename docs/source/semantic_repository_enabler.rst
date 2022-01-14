@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Semantic Repository enabler:
 
-############
-Authorization_enablers
-############
+###########################
+Semantic Repository enabler
+###########################
 
 .. contents::
   :local:

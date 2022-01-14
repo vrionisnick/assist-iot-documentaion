@@ -1,8 +1,8 @@
-.. _Multi-link enabler:
+.. _Authorization_enabler:
 
-##################
-Multi-link enabler
-##################
+############
+Authorization_enabler
+############
 
 .. contents::
   :local:

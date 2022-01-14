@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Performance and Usage Diagnosis enabler:
 
-############
-Authorization_enablers
-############
+#######################################
+Performance and Usage Diagnosis enabler
+#######################################
 
 .. contents::
   :local:

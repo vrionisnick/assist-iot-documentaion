@@ -1,7 +1,7 @@
-.. _Authorization_enablers:
+.. _Self-healing device enabler:
 
 ############
-Authorization_enablers
+Self-healing device enabler
 ############
 
 .. contents::

@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _VPN enabler:
 
-############
-Authorization_enablers
-############
+###########
+VPN enabler
+###########
 
 .. contents::
   :local:

@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Devices managment enabler:
 
-############
-Authorization_enablers
-############
+#########################
+Devices managment enabler
+#########################
 
 .. contents::
   :local:

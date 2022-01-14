@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Enabler for registration and status of enablers:
 
-############
-Authorization_enablers
-############
+###############################################
+Enabler for registration and status of enablers
+###############################################
 
 .. contents::
   :local:

@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Semantic Translation enabler:
 
-############
-Authorization_enablers
-############
+############################
+Semantic Translation enabler
+############################
 
 .. contents::
   :local:

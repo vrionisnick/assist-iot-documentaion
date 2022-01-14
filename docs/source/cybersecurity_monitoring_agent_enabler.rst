@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Cybersecurity Monitoring agent enabler:
 
-############
-Authorization_enablers
-############
+######################################
+Cybersecurity Monitoring agent enabler
+######################################
 
 .. contents::
   :local:

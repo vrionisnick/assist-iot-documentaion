@@ -1,7 +1,7 @@
-.. _Authorization_enablers:
+.. _Auto-configurable network enabler:
 
 ############
-Authorization_enablers
+Auto-configurable network enabler
 ############
 
 .. contents::

@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Resource provisioning enabler:
 
-############
-Authorization_enablers
-############
+#############################
+Resource provisioning enabler
+#############################
 
 .. contents::
   :local:

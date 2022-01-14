@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Enabler for management of services and enablers’ workflow:
 
-############
-Authorization_enablers
-############
+#########################################################
+Enabler for management of services and enablers’ workflow
+#########################################################
 
 .. contents::
   :local:

@@ -1,7 +1,7 @@
-.. _Authorization_enablers:
+.. _WAN acceleration enabler:
 
 ############
-Authorization_enablers
+WAN acceleration enabler
 ############
 
 .. contents::

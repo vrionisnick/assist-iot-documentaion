@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Smart Devices:
 
-############
-Authorization_enablers
-############
+#############
+Smart Devices
+#############
 
 .. contents::
   :local:

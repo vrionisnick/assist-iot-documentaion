@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Long term data storage enabler:
 
-############
-Authorization_enablers
-############
+##############################
+Long term data storage enabler
+##############################
 
 .. contents::
   :local:

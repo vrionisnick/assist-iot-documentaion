@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Tactile dashboard enabler:
 
-############
-Authorization_enablers
-############
+#########################
+Tactile dashboard enabler
+#########################
 
 .. contents::
   :local:

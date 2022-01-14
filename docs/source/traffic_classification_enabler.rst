@@ -1,7 +1,7 @@
-.. _Authorization_enablers:
+.. _Trafic classification enabler:
 
 ############
-Authorization_enablers
+Trafic classification enabler
 ############
 
 .. contents::

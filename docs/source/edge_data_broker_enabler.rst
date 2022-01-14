@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _Edge Data Broker enabler:
 
-############
-Authorization_enablers
-############
+########################
+Edge Data Broker enabler
+########################
 
 .. contents::
   :local:
