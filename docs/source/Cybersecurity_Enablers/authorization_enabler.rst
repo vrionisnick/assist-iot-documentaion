@@ -1,8 +1,8 @@
 .. _Authorization_enabler:
 
-############
+#####################
 Authorization_enabler
-############
+#####################
 
 .. contents::
   :local:
