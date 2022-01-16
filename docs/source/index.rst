@@ -9,7 +9,7 @@ Wiki Template Guide
 
 .. toctree::
     :numbered:
-    :maxdepth: 1
+    :maxdepth: 2
 
     Device_and_Edge_Plane/index.rst
     Smart_Network_and_Control_Plane/index.rst
