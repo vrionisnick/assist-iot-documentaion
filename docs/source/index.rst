@@ -11,7 +11,7 @@ Wiki Template Guide
     :numbered:
     :maxdepth: 3
 
-    smart_decives.rst
+    smart_devices.rst
     edge_node.rst
     smart_orchestrator.rst
     sdn_controller.rst
