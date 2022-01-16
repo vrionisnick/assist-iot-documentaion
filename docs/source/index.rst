@@ -18,7 +18,7 @@ Wiki Template Guide
     Self_Enablers/index.rst     
     Federated_machine_learning_enablers/index.rst    
     Cybersecurity_Enablers/index.rst
-    DLT-based_enablers/index.rst
+    DLT_based_enablers/index.rst
     Manageability/index.rst
 
 Wiki template has its documentation hosted on Read the Docs.
