@@ -15,7 +15,7 @@ Wiki Template Guide
     Smart_Network_and_Control_Plane/index.rst
     Data_management_Plane/index.rst
     Application_and_Services_Plane/index.rst    
-    Self-*_Enablers/index.rst     
+    Self_Enablers/index.rst     
     Federated_machine_learning_enablers/index.rst    
     Cybersecurity_Enablers/index.rst
     DLT-based_enablers/index.rst
