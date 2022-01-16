@@ -11,14 +11,14 @@ Wiki Template Guide
     :numbered:
     :maxdepth: 2
 
-    devicea/index.rst
-    smarta/index.rst
-    datamanagementa/index.rst
-    applicationa/index.rst 
-    selfa/index.rst
-    federateda/index.rst
-    cybersecuritya/index.rst
-    dlta/index.rst
-    manageabilitya/index.rst
+    device/index.rst
+    smart/index.rst
+    datamanagement/index.rst
+    application/index.rst 
+    self/index.rst
+    federated/index.rst
+    cybersecurity/index.rst
+    dlt/index.rst
+    manageability/index.rst
 
 Wiki template has its documentation hosted on Read the Docs.
