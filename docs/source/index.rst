@@ -9,7 +9,7 @@ Wiki Template Guide
 
 .. toctree::
     :numbered:
-    :maxdepth: 1
+    :maxdepth: 2
 
     device/index.rst
     smart/index.rst
