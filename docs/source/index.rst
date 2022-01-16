@@ -14,20 +14,20 @@ Wiki Template Guide
     ***********************
     Device and Edge Plane
     ***********************
-    smart_devices.rst
-    edge_node.rst
+        smart_devices.rst
+        edge_node.rst
 
     *********************************
     Smart Network and Control Plane
     *********************************
-    smart_orchestrator.rst
-    sdn_controller.rst
-    auto_configurable_network_enabler.rst
-    traffic_classification_enabler.rst
-    multi_link_enabler.rst
-    sd_wan_enabler.rst
-    wan_acceleration_enabler.rst
-    vpn_enabler.rst
+        smart_orchestrator.rst
+        sdn_controller.rst
+        auto_configurable_network_enabler.rst
+        traffic_classification_enabler.rst
+        multi_link_enabler.rst
+        sd_wan_enabler.rst
+        wan_acceleration_enabler.rst
+        vpn_enabler.rst
 
 
     semantic_repository_enabler.rst
