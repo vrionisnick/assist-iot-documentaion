@@ -7,4 +7,4 @@ Device and Edge Plane
     :maxdepth: 1
 
 	smart_devices.rst
-	edge_node.rst    
+	edge_node.rst
