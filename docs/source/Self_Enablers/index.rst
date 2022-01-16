@@ -1,6 +1,6 @@
-###############
-Self_Enablers
-###############
+#############
+Self Enablers
+#############
 
 .. toctree::
     :numbered:
