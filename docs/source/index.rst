@@ -14,9 +14,9 @@ Wiki Template Guide
     devicea/index.rst
     smarta/index.rst
     datamanagementa/index.rst
-    applicationa/index.rst    
-    selfa/index.rst     
-    federateda/index.rst    
+    applicationa/index.rst 
+    selfa/index.rst
+    federateda/index.rst
     cybersecuritya/index.rst
     dlta/index.rst
     manageabilitya/index.rst
