@@ -1,5 +1,5 @@
 ###############
-Self-* Enablers
+Self_Enablers
 ###############
 
 .. toctree::

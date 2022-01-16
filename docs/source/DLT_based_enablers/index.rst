@@ -1,5 +1,5 @@
 ##################
-DLT-based enablers
+DLT_based enablers
 ##################
 
 .. toctree::
