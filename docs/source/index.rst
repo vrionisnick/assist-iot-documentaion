@@ -11,14 +11,14 @@ Wiki Template Guide
     :numbered:
     :maxdepth: 1
 
-    Device_and_Edge_Plane/index.rst
-    Smart_Network_and_Control_Plane/index.rst
-    Data_management_Plane/index.rst
-    Application_and_Services_Plane/index.rst    
-    Self_Enablers/index.rst     
-    Federated_machine_learning_enablers/index.rst    
-    Cybersecurity_Enablers/index.rst
-    DLT_based_enablers/index.rst
+    Device/index.rst
+    Smart/index.rst
+    Datamanagement/index.rst
+    Application/index.rst    
+    Self/index.rst     
+    Federated/index.rst    
+    Cybersecurity/index.rst
+    DLT/index.rst
     Manageability/index.rst
 
 Wiki template has its documentation hosted on Read the Docs.
