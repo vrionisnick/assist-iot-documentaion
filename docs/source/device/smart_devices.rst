@@ -1,4 +1,4 @@
-.. _Smart devices:
+.. _Edge Node:
 
 #############
 Smart Devices
