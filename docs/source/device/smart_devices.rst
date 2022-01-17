@@ -1,8 +1,8 @@
-.. _Edge Node:
+.. _Smart devices:
 
-#########
-Edge Node
-#########
+#############
+Smart Devices
+#############
 
 .. contents::
   :local:
