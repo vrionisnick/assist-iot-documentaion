@@ -1,6 +1,6 @@
-###################
-Wiki Template Guide
-###################
+##########################
+Horizontal Planes Enablers
+##########################
 
 .. toctree::
     :numbered:
