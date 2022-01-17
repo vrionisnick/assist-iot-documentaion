@@ -10,5 +10,3 @@ Horizontal Planes Enablers
     smart/index.rst
     datamanagement/index.rst
     application/index.rst 
-
-
