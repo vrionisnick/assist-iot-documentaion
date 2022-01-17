@@ -6,6 +6,7 @@ Federated machine learning enablers
     :numbered:
     :maxdepth: 1
 
-    registration_and_status_enabler.rst
-    management_of_services_and_enablers.rst
-    devices_managment_enabler.rst
+    fl_orchestrator.rst
+    fl_training_collector.rst
+    fl_repository.rst
+    fl_local_operations.rst
