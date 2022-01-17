@@ -1,6 +1,6 @@
-###################
-Wiki Template Guide
-###################
+####################
+Verticals' Enablers
+####################
 
 .. toctree::
     :numbered:
