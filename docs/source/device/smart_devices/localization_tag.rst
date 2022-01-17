@@ -1,8 +1,8 @@
-.. _Edge Node:
+.. _localization_tag:
 
-#############
-Smart Devices
-#############
+################
+Localization Tag
+################
 
 .. contents::
   :local:
