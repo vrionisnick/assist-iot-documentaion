@@ -1,9 +1,8 @@
-####################
+###################
 Verticals' Enablers
-####################
+###################
 
 .. toctree::
-    :numbered:
     :maxdepth: 2
     
     self/index.rst
@@ -11,4 +10,3 @@ Verticals' Enablers
     cybersecurity/index.rst
     dlt/index.rst
     manageability/index.rst
-

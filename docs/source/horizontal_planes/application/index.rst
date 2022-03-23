@@ -1,9 +1,8 @@
-##############################
+**********************************
 Application and Services Plane
-##############################
+**********************************
 
 .. toctree::
-    :numbered:
     :maxdepth: 1
 
     tactile_dashboard_enabler.rst

@@ -1,8 +1,8 @@
-.. _Authorization_enablers:
+.. _FL training collector:
 
-############
-Authorization_enablers
-############
+#####################
+FL training collector
+#####################
 
 .. contents::
   :local:
@@ -11,6 +11,7 @@ Authorization_enablers
 ***************
 Introduction
 ***************
+The FL training collector will consist of two components: (i) the combiner responsible of providing updates with respect to the shared averaged model, and (ii) the I/O component which will carry out the input and output communications of the enabler.
 
 ***************
 Features

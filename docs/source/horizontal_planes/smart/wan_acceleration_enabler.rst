@@ -1,8 +1,8 @@
 .. _WAN acceleration enabler:
 
-############
+########################
 WAN acceleration enabler
-############
+########################
 
 .. contents::
   :local:
@@ -11,6 +11,7 @@ WAN acceleration enabler
 ***************
 Introduction
 ***************
+This enabler aims at increasing the efficiency of data transfer in Wide Area Network. This enabler will con-tain a set of independent, standalone CNFs with that purpose. These functions can be either chained (so data that requires of different techniques travels through the different functions) or selected for specific pur-poses.
 
 ***************
 Features

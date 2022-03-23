@@ -1,8 +1,8 @@
-.. _Business KPI reporting enabler:
+.. _Smart Orchestrator:
 
-##############################
-Business KPI reporting enabler
-##############################
+##################
+Smart Orchestrator
+##################
 
 .. contents::
   :local:
@@ -11,7 +11,7 @@ Business KPI reporting enabler
 ***************
 Introduction
 ***************
-This enabler will illustrate valuable KPIs within Graphical User Interfaces embedded into the tactile dash-board. It will facilitate the visualisation and combination of charts, tables, maps, and other visualisation graphs in order to search for hidden insights.
+This enabler facilitates the interaction of user interfaces and other enablers with the main components of the MANO framework, namely the Network Function Virtualisation Orchestrator (NFVO) and the Kubernetes clusters, exposing only the required inherent functionalities. In particular, this enabler will control the whole lifecycle of Containerised Functions, network and not-network related, from their instantiation to their termination, allowing their deployment in any k8s cluster available.
 
 ***************
 Features
