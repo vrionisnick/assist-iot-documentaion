@@ -13,3 +13,4 @@ Smart Network and Control Plane
     sd_wan_enabler.rst
     wan_acceleration_enabler.rst
     vpn_enabler.rst
+    test.md
